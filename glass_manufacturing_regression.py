@@ -88,6 +88,7 @@ class GlassManufacturingRegressionAnalyzer:
             print(f"\n====================================================================")
             return multi_linear_regression_model
     
+    # TODO: Random Forest or SVM implementation.
 
 analyzer = GlassManufacturingRegressionAnalyzer(path_to_training_data="training_input_manufacturing_data.csv", 
                                                 path_to_validation_data="validation_input_manufacturing_data.csv",

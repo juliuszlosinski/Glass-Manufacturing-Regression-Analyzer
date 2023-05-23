@@ -1,2 +1,2 @@
-# Glass-Manufacturing-Analyzer
-Glass Manufacturing Analyzer - multi-input/ multi-output regression model.
+# Glass-Manufacturing-Regression-Analyzer
+Glass Manufacturing Regression Analyzer - multi-input/ multi-output regression model.

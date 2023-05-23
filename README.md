@@ -4,8 +4,8 @@ Glass Manufacturing Analyzer - finding relationship between atributtes, handling
 ![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/7fbf5bbc-ced0-49a3-a525-3644997e0093)
 
 ![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/8dd0f8b7-96aa-4c7b-998a-817575dd14ab)
-Code 
-'''
+##Code 
+```
     import pandas as pd
     import numpy as np
     import sklearn.linear_model as skl
@@ -134,7 +134,8 @@ Code
     analyzer.get_random_forest_model_for_out(3)
     analyzer.get_random_forest_model_for_out(4)
     analyzer.get_random_forest_model_for_out(5)
-'''
+```
+
 ![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/f0cb0768-ae87-46dd-8fa3-dc2abf16fb92)
 
 ![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/7fc53b7e-72da-474b-a8cd-661d0fc76985)

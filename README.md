@@ -135,7 +135,7 @@ Glass Manufacturing Analyzer - finding relationship between atributtes, handling
     analyzer.get_random_forest_model_for_out(4)
     analyzer.get_random_forest_model_for_out(5)
 ```
-
+## Extract from Weka
 ![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/f0cb0768-ae87-46dd-8fa3-dc2abf16fb92)
 
 ![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/7fc53b7e-72da-474b-a8cd-661d0fc76985)

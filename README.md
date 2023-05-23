@@ -141,3 +141,6 @@ Glass Manufacturing Analyzer - finding relationship between atributtes, handling
 ![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/7fc53b7e-72da-474b-a8cd-661d0fc76985)
 
 ![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/ca69d7ed-836f-4596-967d-15456d9cf613)
+
+![image](https://github.com/VeRonikARoNik/Glass-Manufacturing-Analyzer/assets/76017554/b041ec11-4f8d-49c7-b5c5-65270a7fb576)
+
